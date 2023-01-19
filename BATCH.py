@@ -65,19 +65,19 @@ def showper():
     
     
 #Main code 
-print("Enter the choices of the following:")
-print("1.To enter the Batch ")
-print("2.View list of all students in a batch")
-print("3.View complete performance of all students in a batch")
-ch=int(input("Enter the choices: "))
-if ch==1:
-    enter()
-elif ch==2:
-    display()
-elif ch==3:
-    showper()
-else:
-    print("Invalide choice")
+#print("Enter the choices of the following:")
+#print("1.To enter the Batch ")
+#print("2.View list of all students in a batch")
+#print("3.View complete performance of all students in a batch")
+#ch=int(input("Enter the choices: "))
+#if ch==1:
+    #enter()
+#elif ch==2:
+    #display()
+#elif ch==3:
+    #showper()
+#else:
+    #print("Invalide choice"))
     
     
             
