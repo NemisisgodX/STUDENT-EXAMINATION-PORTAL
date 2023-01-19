@@ -210,22 +210,22 @@ def generate_report_card():
     else:
       print("Sorry couldn't help")   
 #Main code 
-print("Enter the choices of the following:")
-print("1.To enter the data of the student")
-print("2.To update the data of the student ")
-print("3.To remove the data of the student ")
-print("4.To generate a report card of the student")
-chx=int(input("Enter the choice you want to enter: "))
-if chx==1:
-    enter()
-elif chx==2:
-    update()
-elif chx==3:
-    remove()
-elif chx==4:
-    generate_report_card()
-else:
-    print("Invalid choices ")
+#print("Enter the choices of the following:")
+#print("1.To enter the data of the student")
+#print("2.To update the data of the student ")
+#print("3.To remove the data of the student ")
+#print("4.To generate a report card of the student")
+#chx=int(input("Enter the choice you want to enter: "))
+#if chx==1:
+    #enter()
+#elif chx==2:
+    #update()
+#elif chx==3:
+    #remove()
+#elif chx==4:
+    #generate_report_card()
+#else:
+    #print("Invalid choices ")
 
     
     
