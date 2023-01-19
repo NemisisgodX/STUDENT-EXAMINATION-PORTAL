@@ -52,18 +52,18 @@ def view_performance():
     plt.xlabel('Batch Name')
     
 #main code
-print("Enter the choice of the following: ")
-print("1.To enter the data in the csv")
-print("2.To show the the batch ")
-print("3.To see the Averge performance with the line plot ")
-ch=int(input("Enter the choice: "))
-if ch==1:
-    enter()
-elif ch==2:
-    showbatch()
+#print("Enter the choice of the following: ")
+#print("1.To enter the data in the csv")
+#print("2.To show the the batch ")
+#print("3.To see the Averge performance with the line plot ")
+#ch=int(input("Enter the choice: "))
+#if ch==1:
+    #enter()
+#elif ch==2:
+    #showbatch()
 
-elif ch==3:
-    view_performance()
+#elif ch==3:
+    #view_performance()
  
         
         
